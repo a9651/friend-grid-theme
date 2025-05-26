@@ -1,0 +1,24 @@
+/**
+ * @name Friend Grid Theme
+ * @description Grid-style layout for the Friends tab in Discord
+ * @author YourName
+ * @version 1.0.0
+ */
+
+@import url('http://anti-betterdocs.github.io/BlockBetterDocs/code.css');
+
+/* ========== Your Grid Layout CSS Starts Here ========== */
+/* Paste all the custom CSS you had before this line */
+
+.friendsTable-133bsv .scroller-2FKFPG>div:not(.friendsRow-2yicud),
+.friendsTable-133bsv .scroller-2FKFPG {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+/* Continue pasting the entire block of CSS you posted originally */
+/* ... (full CSS continues here exactly as you shared it) ... */
+
+/* ========== Your CSS Ends Here ========== */
